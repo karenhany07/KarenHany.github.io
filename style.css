@@ -5,7 +5,7 @@
     font-family:unset;
 }
 .hero-section {
-    background-image: linear-gradient(rgba(10, 25, 47, 0.6), rgba(10, 25, 47, 0.6)), url(../imgs/geometric-science-education-background-vector-gradient-blue-digital-remix_53876-125993.avif);
+    background-image: linear-gradient(rgba(10, 25, 47, 0.6), rgba(10, 25, 47, 0.6)), url(imgs/geometric-science-education-background-vector-gradient-blue-digital-remix_53876-125993.avif);
     background-size: cover;
     background-position: center;
     min-height: 100vh;
